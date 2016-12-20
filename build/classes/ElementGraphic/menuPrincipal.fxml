@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="233.0" prefWidth="219.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Traitement.MenuPrincipalController">
+   <children>
+      <Button id="newGame" fx:id="newGame" layoutX="50.0" layoutY="41.0" mnemonicParsing="false" onMouseClicked="#newGame" prefHeight="25.0" prefWidth="118.0" text="Nouvelle partie" />
+      <Button id="bestScor" fx:id="bestScor" layoutX="50.0" layoutY="157.0" mnemonicParsing="false" onMouseClicked="#bestScor" prefHeight="25.0" prefWidth="117.0" text="Meilleur  scor" />
+      <Button id="quit" fx:id="quit" layoutX="51.0" layoutY="194.0" mnemonicParsing="false" onAction="#close" prefHeight="25.0" prefWidth="117.0" text="Quitter" />
+      <Button layoutX="50.0" layoutY="117.0" mnemonicParsing="false" onMouseClicked="#initializeTout" prefHeight="25.0" prefWidth="117.0" text="ReInitialiser" />
+      <Button layoutX="51.0" layoutY="79.0" mnemonicParsing="false" onMouseClicked="#loadJeu" prefHeight="25.0" prefWidth="117.0" text="Charger une partie" />
+      
+   </children>
+</AnchorPane>

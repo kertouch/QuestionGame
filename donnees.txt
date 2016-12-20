@@ -1,0 +1,200 @@
+<histoire>;Hq1;Hr1;Hp1;Hp2;Hp3
+<culture generale>;Cq2;Cr2;Cp1;Cp2;Cp3
+<science>;Sq3;Sr3;Sp1;Sp2;Sp3
+<sport>;Sq4;Sr4;Sp1;Sp2;Sp3
+<histoire>;Hq5;Hr5;Hp1;Hp2;Hp3
+<science>;Sq6;Sr6;Sp1;Sp2;Sp3
+<cinema>;Cq7;Cr7;Cp1;Cp2;Cp3
+<musique>;Mq8;Mr8;Mp1;Mp2;Mp3
+<cinema>;Cq9;Cr9;Cp1;Cp2;Cp3
+<histoire>;Hq10;Hr10;Hp1;Hp2;Hp3
+<cinema>;Cq11;Cr11;Cp1;Cp2;Cp3
+<culture generale>;Cq12;Cr12;Cp1;Cp2;Cp3
+<sport>;Sq13;Sr13;Sp1;Sp2;Sp3
+<sport>;Sq14;Sr14;Sp1;Sp2;Sp3
+<culture generale>;Cq15;Cr15;Cp1;Cp2;Cp3
+<geographie>;Gq16;Gr16;Gp1;Gp2;Gp3
+<culture generale>;Cq17;Cr17;Cp1;Cp2;Cp3
+<sport>;Sq18;Sr18;Sp1;Sp2;Sp3
+<sport>;Sq19;Sr19;Sp1;Sp2;Sp3
+<musique>;Mq20;Mr20;Mp1;Mp2;Mp3
+<cinema>;Cq21;Cr21;Cp1;Cp2;Cp3
+<geographie>;Gq22;Gr22;Gp1;Gp2;Gp3
+<histoire>;Hq23;Hr23;Hp1;Hp2;Hp3
+<histoire>;Hq24;Hr24;Hp1;Hp2;Hp3
+<cinema>;Cq25;Cr25;Cp1;Cp2;Cp3
+<cinema>;Cq26;Cr26;Cp1;Cp2;Cp3
+<science>;Sq27;Sr27;Sp1;Sp2;Sp3
+<sport>;Sq28;Sr28;Sp1;Sp2;Sp3
+<sport>;Sq29;Sr29;Sp1;Sp2;Sp3
+<culture generale>;Cq30;Cr30;Cp1;Cp2;Cp3
+<culture generale>;Cq31;Cr31;Cp1;Cp2;Cp3
+<musique>;Mq32;Mr32;Mp1;Mp2;Mp3
+<culture generale>;Cq33;Cr33;Cp1;Cp2;Cp3
+<sport>;Sq34;Sr34;Sp1;Sp2;Sp3
+<histoire>;Hq35;Hr35;Hp1;Hp2;Hp3
+<science>;Sq36;Sr36;Sp1;Sp2;Sp3
+<cinema>;Cq37;Cr37;Cp1;Cp2;Cp3
+<geographie>;Gq38;Gr38;Gp1;Gp2;Gp3
+<musique>;Mq39;Mr39;Mp1;Mp2;Mp3
+<histoire>;Hq40;Hr40;Hp1;Hp2;Hp3
+<science>;Sq41;Sr41;Sp1;Sp2;Sp3
+<geographie>;Gq42;Gr42;Gp1;Gp2;Gp3
+<sport>;Sq43;Sr43;Sp1;Sp2;Sp3
+<cinema>;Cq44;Cr44;Cp1;Cp2;Cp3
+<geographie>;Gq45;Gr45;Gp1;Gp2;Gp3
+<culture generale>;Cq46;Cr46;Cp1;Cp2;Cp3
+<musique>;Mq47;Mr47;Mp1;Mp2;Mp3
+<histoire>;Hq48;Hr48;Hp1;Hp2;Hp3
+<sport>;Sq49;Sr49;Sp1;Sp2;Sp3
+<histoire>;Hq50;Hr50;Hp1;Hp2;Hp3
+<musique>;Mq51;Mr51;Mp1;Mp2;Mp3
+<sport>;Sq52;Sr52;Sp1;Sp2;Sp3
+<histoire>;Hq53;Hr53;Hp1;Hp2;Hp3
+<cinema>;Cq54;Cr54;Cp1;Cp2;Cp3
+<culture generale>;Cq55;Cr55;Cp1;Cp2;Cp3
+<culture generale>;Cq56;Cr56;Cp1;Cp2;Cp3
+<geographie>;Gq57;Gr57;Gp1;Gp2;Gp3
+<science>;Sq58;Sr58;Sp1;Sp2;Sp3
+<science>;Sq59;Sr59;Sp1;Sp2;Sp3
+<science>;Sq60;Sr60;Sp1;Sp2;Sp3
+<histoire>;Hq61;Hr61;Hp1;Hp2;Hp3
+<science>;Sq62;Sr62;Sp1;Sp2;Sp3
+<science>;Sq63;Sr63;Sp1;Sp2;Sp3
+<sport>;Sq64;Sr64;Sp1;Sp2;Sp3
+<science>;Sq65;Sr65;Sp1;Sp2;Sp3
+<sport>;Sq66;Sr66;Sp1;Sp2;Sp3
+<science>;Sq67;Sr67;Sp1;Sp2;Sp3
+<geographie>;Gq68;Gr68;Gp1;Gp2;Gp3
+<histoire>;Hq69;Hr69;Hp1;Hp2;Hp3
+<histoire>;Hq70;Hr70;Hp1;Hp2;Hp3
+<geographie>;Gq71;Gr71;Gp1;Gp2;Gp3
+<geographie>;Gq72;Gr72;Gp1;Gp2;Gp3
+<culture generale>;Cq73;Cr73;Cp1;Cp2;Cp3
+<geographie>;Gq74;Gr74;Gp1;Gp2;Gp3
+<culture generale>;Cq75;Cr75;Cp1;Cp2;Cp3
+<histoire>;Hq76;Hr76;Hp1;Hp2;Hp3
+<cinema>;Cq77;Cr77;Cp1;Cp2;Cp3
+<sport>;Sq78;Sr78;Sp1;Sp2;Sp3
+<histoire>;Hq79;Hr79;Hp1;Hp2;Hp3
+<geographie>;Gq80;Gr80;Gp1;Gp2;Gp3
+<cinema>;Cq81;Cr81;Cp1;Cp2;Cp3
+<culture generale>;Cq82;Cr82;Cp1;Cp2;Cp3
+<cinema>;Cq83;Cr83;Cp1;Cp2;Cp3
+<sport>;Sq84;Sr84;Sp1;Sp2;Sp3
+<musique>;Mq85;Mr85;Mp1;Mp2;Mp3
+<histoire>;Hq86;Hr86;Hp1;Hp2;Hp3
+<science>;Sq87;Sr87;Sp1;Sp2;Sp3
+<culture generale>;Cq88;Cr88;Cp1;Cp2;Cp3
+<geographie>;Gq89;Gr89;Gp1;Gp2;Gp3
+<science>;Sq90;Sr90;Sp1;Sp2;Sp3
+<geographie>;Gq91;Gr91;Gp1;Gp2;Gp3
+<sport>;Sq92;Sr92;Sp1;Sp2;Sp3
+<geographie>;Gq93;Gr93;Gp1;Gp2;Gp3
+<science>;Sq94;Sr94;Sp1;Sp2;Sp3
+<histoire>;Hq95;Hr95;Hp1;Hp2;Hp3
+<cinema>;Cq96;Cr96;Cp1;Cp2;Cp3
+<geographie>;Gq97;Gr97;Gp1;Gp2;Gp3
+<geographie>;Gq98;Gr98;Gp1;Gp2;Gp3
+<musique>;Mq99;Mr99;Mp1;Mp2;Mp3
+<culture generale>;Cq100;Cr100;Cp1;Cp2;Cp3
+<musique>;Mq101;Mr101;Mp1;Mp2;Mp3
+<musique>;Mq102;Mr102;Mp1;Mp2;Mp3
+<cinema>;Cq103;Cr103;Cp1;Cp2;Cp3
+<sport>;Sq104;Sr104;Sp1;Sp2;Sp3
+<geographie>;Gq105;Gr105;Gp1;Gp2;Gp3
+<geographie>;Gq106;Gr106;Gp1;Gp2;Gp3
+<geographie>;Gq107;Gr107;Gp1;Gp2;Gp3
+<science>;Sq108;Sr108;Sp1;Sp2;Sp3
+<cinema>;Cq109;Cr109;Cp1;Cp2;Cp3
+<sport>;Sq110;Sr110;Sp1;Sp2;Sp3
+<histoire>;Hq111;Hr111;Hp1;Hp2;Hp3
+<culture generale>;Cq112;Cr112;Cp1;Cp2;Cp3
+<science>;Sq113;Sr113;Sp1;Sp2;Sp3
+<cinema>;Cq114;Cr114;Cp1;Cp2;Cp3
+<histoire>;Hq115;Hr115;Hp1;Hp2;Hp3
+<culture generale>;Cq116;Cr116;Cp1;Cp2;Cp3
+<sport>;Sq117;Sr117;Sp1;Sp2;Sp3
+<histoire>;Hq118;Hr118;Hp1;Hp2;Hp3
+<science>;Sq119;Sr119;Sp1;Sp2;Sp3
+<musique>;Mq120;Mr120;Mp1;Mp2;Mp3
+<histoire>;Hq121;Hr121;Hp1;Hp2;Hp3
+<cinema>;Cq122;Cr122;Cp1;Cp2;Cp3
+<sport>;Sq123;Sr123;Sp1;Sp2;Sp3
+<science>;Sq124;Sr124;Sp1;Sp2;Sp3
+<sport>;Sq125;Sr125;Sp1;Sp2;Sp3
+<musique>;Mq126;Mr126;Mp1;Mp2;Mp3
+<sport>;Sq127;Sr127;Sp1;Sp2;Sp3
+<sport>;Sq128;Sr128;Sp1;Sp2;Sp3
+<musique>;Mq129;Mr129;Mp1;Mp2;Mp3
+<geographie>;Gq130;Gr130;Gp1;Gp2;Gp3
+<science>;Sq131;Sr131;Sp1;Sp2;Sp3
+<geographie>;Gq132;Gr132;Gp1;Gp2;Gp3
+<musique>;Mq133;Mr133;Mp1;Mp2;Mp3
+<sport>;Sq134;Sr134;Sp1;Sp2;Sp3
+<sport>;Sq135;Sr135;Sp1;Sp2;Sp3
+<geographie>;Gq136;Gr136;Gp1;Gp2;Gp3
+<geographie>;Gq137;Gr137;Gp1;Gp2;Gp3
+<science>;Sq138;Sr138;Sp1;Sp2;Sp3
+<sport>;Sq139;Sr139;Sp1;Sp2;Sp3
+<geographie>;Gq140;Gr140;Gp1;Gp2;Gp3
+<geographie>;Gq141;Gr141;Gp1;Gp2;Gp3
+<science>;Sq142;Sr142;Sp1;Sp2;Sp3
+<musique>;Mq143;Mr143;Mp1;Mp2;Mp3
+<science>;Sq144;Sr144;Sp1;Sp2;Sp3
+<histoire>;Hq145;Hr145;Hp1;Hp2;Hp3
+<sport>;Sq146;Sr146;Sp1;Sp2;Sp3
+<cinema>;Cq147;Cr147;Cp1;Cp2;Cp3
+<musique>;Mq148;Mr148;Mp1;Mp2;Mp3
+<science>;Sq149;Sr149;Sp1;Sp2;Sp3
+<culture generale>;Cq150;Cr150;Cp1;Cp2;Cp3
+<histoire>;Hq151;Hr151;Hp1;Hp2;Hp3
+<science>;Sq152;Sr152;Sp1;Sp2;Sp3
+<science>;Sq153;Sr153;Sp1;Sp2;Sp3
+<sport>;Sq154;Sr154;Sp1;Sp2;Sp3
+<culture generale>;Cq155;Cr155;Cp1;Cp2;Cp3
+<cinema>;Cq156;Cr156;Cp1;Cp2;Cp3
+<histoire>;Hq157;Hr157;Hp1;Hp2;Hp3
+<musique>;Mq158;Mr158;Mp1;Mp2;Mp3
+<musique>;Mq159;Mr159;Mp1;Mp2;Mp3
+<histoire>;Hq160;Hr160;Hp1;Hp2;Hp3
+<science>;Sq161;Sr161;Sp1;Sp2;Sp3
+<culture generale>;Cq162;Cr162;Cp1;Cp2;Cp3
+<musique>;Mq163;Mr163;Mp1;Mp2;Mp3
+<sport>;Sq164;Sr164;Sp1;Sp2;Sp3
+<culture generale>;Cq165;Cr165;Cp1;Cp2;Cp3
+<sport>;Sq166;Sr166;Sp1;Sp2;Sp3
+<sport>;Sq167;Sr167;Sp1;Sp2;Sp3
+<sport>;Sq168;Sr168;Sp1;Sp2;Sp3
+<science>;Sq169;Sr169;Sp1;Sp2;Sp3
+<sport>;Sq170;Sr170;Sp1;Sp2;Sp3
+<sport>;Sq171;Sr171;Sp1;Sp2;Sp3
+<sport>;Sq172;Sr172;Sp1;Sp2;Sp3
+<science>;Sq173;Sr173;Sp1;Sp2;Sp3
+<histoire>;Hq174;Hr174;Hp1;Hp2;Hp3
+<science>;Sq175;Sr175;Sp1;Sp2;Sp3
+<science>;Sq176;Sr176;Sp1;Sp2;Sp3
+<histoire>;Hq177;Hr177;Hp1;Hp2;Hp3
+<geographie>;Gq178;Gr178;Gp1;Gp2;Gp3
+<cinema>;Cq179;Cr179;Cp1;Cp2;Cp3
+<sport>;Sq180;Sr180;Sp1;Sp2;Sp3
+<cinema>;Cq181;Cr181;Cp1;Cp2;Cp3
+<science>;Sq182;Sr182;Sp1;Sp2;Sp3
+<musique>;Mq183;Mr183;Mp1;Mp2;Mp3
+<cinema>;Cq184;Cr184;Cp1;Cp2;Cp3
+<science>;Sq185;Sr185;Sp1;Sp2;Sp3
+<musique>;Mq186;Mr186;Mp1;Mp2;Mp3
+<science>;Sq187;Sr187;Sp1;Sp2;Sp3
+<science>;Sq188;Sr188;Sp1;Sp2;Sp3
+<culture generale>;Cq189;Cr189;Cp1;Cp2;Cp3
+<histoire>;Hq190;Hr190;Hp1;Hp2;Hp3
+<culture generale>;Cq191;Cr191;Cp1;Cp2;Cp3
+<histoire>;Hq192;Hr192;Hp1;Hp2;Hp3
+<sport>;Sq193;Sr193;Sp1;Sp2;Sp3
+<musique>;Mq194;Mr194;Mp1;Mp2;Mp3
+<science>;Sq195;Sr195;Sp1;Sp2;Sp3
+<sport>;Sq196;Sr196;Sp1;Sp2;Sp3
+<musique>;Mq197;Mr197;Mp1;Mp2;Mp3
+<histoire>;Hq198;Hr198;Hp1;Hp2;Hp3
+<culture generale>;Cq199;Cr199;Cp1;Cp2;Cp3
+<culture generale>;Cq200;Cr200;Cp1;Cp2;Cp3

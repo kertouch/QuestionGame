@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="349.0" prefWidth="610.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Traitement.FormLoadController">
+   <children>
+      <AnchorPane layoutY="13.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="361.0" prefWidth="610.0">
+         <children>
+            <Button fx:id="save" layoutX="197.0" layoutY="308.0" mnemonicParsing="false" onMouseClicked="#save" text="Ok" />
+            <AnchorPane layoutY="-3.0" prefHeight="307.0" prefWidth="600.0" style="-fx-background-color: beige;">
+               <children>
+                  <SplitPane dividerPositions="0.49665551839464883" layoutY="-25.0" prefHeight="311.0" prefWidth="600.0">
+                     <items>
+                        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="308.0" prefWidth="294.0">
+                           <children>
+                              <SplitPane dividerPositions="0.1" layoutY="58.0" orientation="VERTICAL" prefHeight="259.0" prefWidth="296.0">
+                                 <items>
+                                    <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="65.0" prefWidth="294.0">
+                                       <children>
+                                          <Label layoutX="108.0" layoutY="6.0" text="Joueur1" />
+                                          <Label fx:id="choixJoueur1" layoutX="115.0" layoutY="68.0" />
+                                       </children>
+                                    </AnchorPane>
+                                    <AnchorPane fx:id="infoPlayer1" minHeight="0.0" minWidth="0.0" prefHeight="226.0" prefWidth="294.0">
+                                       <children>
+                                          <Label layoutX="40.0" layoutY="13.0" text="Nom :" />
+                                          <Button fx:id="changeDomain1" layoutX="83.0" layoutY="64.0" mnemonicParsing="false" onMouseClicked="#changeDomains1" text="Modifier les domains" />
+                                          <AnchorPane fx:id="choixDomains1" layoutX="34.0" layoutY="87.0" />
+                                          <TextField fx:id="nomPlayer1" layoutX="100.0" layoutY="9.0" />
+                                          <Button fx:id="savePlayer1" layoutX="116.0" layoutY="177.0" mnemonicParsing="false" onMouseClicked="#savePlayer1" text="save" />
+                                          <AnchorPane fx:id="choixDomain1" layoutX="22.0" layoutY="47.0">
+                                             <children>
+                                                <CheckBox fx:id="cinema1" mnemonicParsing="false" onAction="#checked1" prefHeight="30.0" prefWidth="64.0" text="Cinéma" />
+                                                <CheckBox fx:id="musique1" layoutY="60.0" mnemonicParsing="false" onAction="#checked1" prefHeight="30.0" prefWidth="75.0" text="Musique" />
+                                                <CheckBox fx:id="geo1" layoutY="90.0" mnemonicParsing="false" onAction="#checked1" prefHeight="30.0" prefWidth="92.0" text="Géographie" />
+                                                <CheckBox fx:id="cg1" layoutX="120.0" layoutY="45.0" mnemonicParsing="false" onAction="#checked1" prefHeight="30.0" prefWidth="108.0" text="Culture général" />
+                                                <CheckBox fx:id="sport1" layoutX="120.0" layoutY="86.0" mnemonicParsing="false" onAction="#checked1" prefHeight="30.0" prefWidth="64.0" text="Sport" />
+                                                <CheckBox fx:id="hist1" layoutX="120.0" layoutY="9.0" mnemonicParsing="false" onAction="#checked1" prefHeight="30.0" prefWidth="92.0" text="Histoire" />
+                                                <CheckBox fx:id="science1" layoutY="30.0" mnemonicParsing="false" onAction="#checked1" prefHeight="30.0" prefWidth="64.0" text="Science" />
+                                             </children>
+                                          </AnchorPane>
+                                       </children>
+                                    </AnchorPane>
+                                 </items>
+                              </SplitPane>
+                           </children>
+                        </AnchorPane>
+                        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
+                           <children>
+                              <SplitPane dividerPositions="0.1" layoutY="58.0" orientation="VERTICAL" prefHeight="259.0" prefWidth="296.0">
+                                 <items>
+                                    <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
+                                       <children>
+                                          <Label layoutX="118.0" layoutY="6.0" text="Joueur2" />
+                                          <Label fx:id="choixJoueur2" layoutX="130.0" layoutY="75.0" />
+                                       </children>
+                                    </AnchorPane>
+                                    <AnchorPane fx:id="infoPlayer2" minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
+                                       <children>
+                                          <Button fx:id="changeDomain2" layoutX="72.0" layoutY="60.0" mnemonicParsing="false" onMouseClicked="#changeDomains2" text="Modifier les domains" />
+                                          <Label layoutX="44.0" layoutY="14.0" text="Nom :" />
+                                          <TextField fx:id="nomPlayer2" layoutX="98.0" layoutY="10.0" />
+                                          <Button fx:id="savePlayer2" layoutX="116.0" layoutY="179.0" mnemonicParsing="false" onMouseClicked="#savePlayer2" text="save" />
+                                          <AnchorPane fx:id="choixDomain2" layoutX="19.0" layoutY="93.0" />
+                                          <AnchorPane fx:id="choixDomain2" layoutX="22.0" layoutY="45.0">
+                                             <children>
+                                                <CheckBox fx:id="cg2" layoutX="120.0" layoutY="45.0" mnemonicParsing="false" onAction="#checked2" prefHeight="30.0" prefWidth="108.0" text="Culture général" />
+                                                <CheckBox fx:id="sport2" layoutX="120.0" layoutY="86.0" mnemonicParsing="false" onAction="#checked2" prefHeight="30.0" prefWidth="75.0" text="Sport" />
+                                                <CheckBox fx:id="musique2" layoutY="60.0" mnemonicParsing="false" onAction="#checked2" prefHeight="30.0" prefWidth="75.0" text="Musique" />
+                                                <CheckBox fx:id="science2" layoutY="30.0" mnemonicParsing="false" onAction="#checked2" prefHeight="30.0" prefWidth="64.0" text="Science" />
+                                                <CheckBox fx:id="cinema2" mnemonicParsing="false" onAction="#checked2" prefHeight="30.0" prefWidth="75.0" text="Cinéma" />
+                                                <CheckBox fx:id="geo2" layoutY="90.0" mnemonicParsing="false" onAction="#checked2" prefHeight="30.0" prefWidth="129.0" text="Géographie" />
+                                                <CheckBox fx:id="Hist2" layoutX="120.0" layoutY="9.0" mnemonicParsing="false" onAction="#checked2" prefHeight="30.0" prefWidth="75.0" text="Histoire" />
+                                             </children>
+                                          </AnchorPane>
+                                       </children>
+                                    </AnchorPane>
+                                 </items>
+                              </SplitPane>
+                           </children>
+                        </AnchorPane>
+                     </items>
+                  </SplitPane>
+               </children>
+            </AnchorPane>
+            <Button layoutX="346.0" layoutY="308.0" mnemonicParsing="false" onAction="#close" text="Retour" />
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>
